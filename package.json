@@ -58,6 +58,7 @@
     "typescript": "^3.7.0"
   },
   "dependencies": {
+    "@types/node": "12.12.21",
     "electron-squirrel-startup": "^1.0.0"
   }
 }
